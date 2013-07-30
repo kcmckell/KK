@@ -43,7 +43,7 @@
         <blockquote>
           As always, it was the best.  This was #6 for me, but I hadn't been back since 2000, now I'm thinking, "How can I stay away??"!!  The lined fields, the score boards, the abundant food -- all great.
         </blockquote>
-        <cite>Joanne Adamkewicz</cite>
+        <cite>Jo Adamkewicz</cite>
       </div>
       <div class="testimonial grid-50 mobile-grid-50">
         <blockquote>
