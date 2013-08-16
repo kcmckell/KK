@@ -20,9 +20,10 @@
   <div class="content">
 	<section class="grid-70">
       <article>
-        <h1>Article Title</h1>
-        <p>
-          Body text.
+        <h1>Post-Kaimana Hilo Hat Draw</h1>
+        <h2>February 22-23, 2014 on the Big Island</h2>
+       <p>
+          Stay tuned for details regarding the Hilo Hat Draw!  
         </p>
       </article>
 	</section>
